@@ -2,4 +2,174 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Personal Watch Calendar//github.com//
 X-WR-CALNAME:TV + Movies (Metascore 80+)
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:📺 Last Week Tonight with John Oliver S13E23 – TBA
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260827T111958Z
+UID:tv-263-s13e23@personal-watch-calendar
+DESCRIPTION:Last Week Tonight with John Oliver on TVMaze: https://www.tvma
+ ze.com/shows/263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E04 – 2026: A Virtual 
+ Insanity
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e4@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E05 – The Gang Goes to
+  the Ren Faire
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e5@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E06 – The War on Alcoh
+ ol
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e6@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E07 – Gilligan's Islan
+ d: A Conspiracy Theorist's Pradise
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e7@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E08 – TBA
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e8@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E09 – TBA
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e9@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 It's Always Sunny in Philadelphia S18E10 – TBA
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260827T111959Z
+UID:tv-347-s18e10@personal-watch-calendar
+DESCRIPTION:It's Always Sunny in Philadelphia on TVMaze: https://www.tvmaz
+ e.com/shows/347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Taskmaster S22E01 – In My Mind There's a River
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+DTSTAMP:20260827T112000Z
+UID:tv-2955-s22e1@personal-watch-calendar
+DESCRIPTION:Taskmaster on TVMaze: https://www.tvmaze.com/shows/2955
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Taskmaster S22E02 – This Is Food Glue
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260827T112000Z
+UID:tv-2955-s22e2@personal-watch-calendar
+DESCRIPTION:Taskmaster on TVMaze: https://www.tvmaze.com/shows/2955
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Slow Horses S06E01 – TBA
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260827T112004Z
+UID:tv-45039-s6e1@personal-watch-calendar
+DESCRIPTION:Slow Horses on TVMaze: https://www.tvmaze.com/shows/45039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Slow Horses S06E02 – TBA
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260827T112004Z
+UID:tv-45039-s6e2@personal-watch-calendar
+DESCRIPTION:Slow Horses on TVMaze: https://www.tvmaze.com/shows/45039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Slow Horses S06E03 – TBA
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260827T112004Z
+UID:tv-45039-s6e3@personal-watch-calendar
+DESCRIPTION:Slow Horses on TVMaze: https://www.tvmaze.com/shows/45039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Slow Horses S06E04 – TBA
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20260827T112004Z
+UID:tv-45039-s6e4@personal-watch-calendar
+DESCRIPTION:Slow Horses on TVMaze: https://www.tvmaze.com/shows/45039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Slow Horses S06E05 – TBA
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260827T112004Z
+UID:tv-45039-s6e5@personal-watch-calendar
+DESCRIPTION:Slow Horses on TVMaze: https://www.tvmaze.com/shows/45039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Slow Horses S06E06 – TBA
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20260827T112004Z
+UID:tv-45039-s6e6@personal-watch-calendar
+DESCRIPTION:Slow Horses on TVMaze: https://www.tvmaze.com/shows/45039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Conan O'Brien Must Go S03E02 – The Netherlands
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260827T112007Z
+UID:tv-68789-s3e2@personal-watch-calendar
+DESCRIPTION:Conan O'Brien Must Go on TVMaze: https://www.tvmaze.com/shows/
+ 68789
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Conan O'Brien Must Go S03E03 – The Philippines
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260827T112007Z
+UID:tv-68789-s3e3@personal-watch-calendar
+DESCRIPTION:Conan O'Brien Must Go on TVMaze: https://www.tvmaze.com/shows/
+ 68789
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Conan O'Brien Must Go S03E04 – Morocco
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20260827T112007Z
+UID:tv-68789-s3e4@personal-watch-calendar
+DESCRIPTION:Conan O'Brien Must Go on TVMaze: https://www.tvmaze.com/shows/
+ 68789
+END:VEVENT
 END:VCALENDAR
