@@ -1,0 +1,14 @@
+# List the TV shows you watch, using their common title.
+# The script searches TVMaze for the closest match, so be reasonably specific
+# (add the year in parentheses if the title is ambiguous, e.g. "Suits (2011)").
+tv_shows:
+  - "Severance"
+  - "The Bear"
+  - "Stranger Things"
+  - "The Last of Us"
+
+movies:
+  min_metascore: 80      # only include movies with a Metascore strictly above this
+  lookahead_days: 120    # how far into the future to look for US theatrical releases
+  lookback_days: 14      # also re-check movies released in the last N days, in case
+                          # reviews (and Metascore) landed after the release date
