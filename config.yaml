@@ -2,13 +2,30 @@
 # The script searches TVMaze for the closest match, so be reasonably specific
 # (add the year in parentheses if the title is ambiguous, e.g. "Suits (2011)").
 tv_shows:
+  - "Last Week Tonight"
+  - "It's Always Sunny in Philadelphia
+  - "Taskmaster"
+  - "The Celebrity Traitors"
+  - "Taskmaster NZ"
+  - "Would I Lie To You?"
+  - "Clarkson's Farm"
+  - "Invincible"
+  - "Rick and Morty"
+  - "Slow Horses"
+  - "Welcome to Wrexham"
+  - "Alien: Earth"
+  - "Black Mirror"
+  - "The Celebrity Traitors"
+  - "Conan O'Brien Must Go"
+  - "Fargo"
+  - "House of the Dragon"
   - "Severance"
-  - "The Bear"
-  - "Stranger Things"
   - "The Last of Us"
+  - "The Rehearsal"
+  - "X-Men '97"
 
 movies:
   min_metascore: 80      # only include movies with a Metascore strictly above this
-  lookahead_days: 120    # how far into the future to look for US theatrical releases
-  lookback_days: 14      # also re-check movies released in the last N days, in case
+  lookahead_days: 100    # how far into the future to look for US theatrical releases
+  lookback_days: 20      # also re-check movies released in the last N days, in case
                           # reviews (and Metascore) landed after the release date
