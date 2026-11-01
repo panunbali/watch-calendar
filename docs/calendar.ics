@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Last Week Tonight with John Oliver S13E28 – Episode 28
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261031T131432Z
+DTSTAMP:20261101T135818Z
 UID:tv-263-s13e28@personal-watch-calendar
 DESCRIPTION:Last Week Tonight with John Oliver on TVMaze: https://www.tvma
  ze.com/shows/263
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Taskmaster S22E10 – Big\, Clumsy Emu Steps
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261031T131434Z
+DTSTAMP:20261101T135820Z
 UID:tv-2955-s22e10@personal-watch-calendar
 DESCRIPTION:Taskmaster on TVMaze: https://www.tvmaze.com/shows/2955
 END:VEVENT
