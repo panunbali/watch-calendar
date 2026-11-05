@@ -6,10 +6,28 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:📺 Last Week Tonight with John Oliver S13E29 – Episode 29
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261105T150557Z
+UID:tv-263-s13e29@personal-watch-calendar
+DESCRIPTION:Last Week Tonight with John Oliver on TVMaze: https://www.tvma
+ ze.com/shows/263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Last Week Tonight with John Oliver S13E30 – Episode 30
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261105T150557Z
+UID:tv-263-s13e30@personal-watch-calendar
+DESCRIPTION:Last Week Tonight with John Oliver on TVMaze: https://www.tvma
+ ze.com/shows/263
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📺 Taskmaster S22E10 – Big\, Clumsy Emu Steps
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261104T150020Z
+DTSTAMP:20261105T150559Z
 UID:tv-2955-s22e10@personal-watch-calendar
 DESCRIPTION:Taskmaster on TVMaze: https://www.tvmaze.com/shows/2955
 END:VEVENT
